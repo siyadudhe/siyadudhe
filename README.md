@@ -11,9 +11,7 @@ src ="https://dexterdigital.co.uk/wp-content/uploads/2022/11/animation_500_l70uz
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/
-siya-dudhe-java-full-stack-developer-b3a641215
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siya dudhe" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/siya-dudhe-java-full-stack-developer-b3a641215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siya dudhe" height="30" width="40" /></a>
 <a href="https://instagram.com/siyadudhe___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siyadudhe___" height="30" width="40" /></a>
 </p>
 
