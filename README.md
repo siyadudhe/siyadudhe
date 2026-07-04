@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm siya dudhe</h1>
 <h3 align="center">🎓 MCA Student | 💻 Aspiring Python Developer | 🌐 Django & Web Development Enthusiast | 🤖 AI Enthusiast</h3>
 <h5>I'm passionate about building real-world applications using Python and modern web technologies. I enjoy learning new technologies, solving problems, and creating projects that strengthen my software development skills.</h5>
-<h5>🚀 Tech Stack
-Languages: Python, SQL, JavaScript
-Frameworks: Flask, Django
-Frontend: HTML5, CSS3, JavaScript
-Databases: MySQL
-Tools: Git, GitHub, VS Code</h5>
+<p>🚀 Tech Stack<br>
+Languages: Python, SQL, JavaScript<br>
+Frameworks: Flask, Django<br>
+Frontend: HTML5, CSS3, JavaScript<br>
+Databases: MySQL<br>
+Tools: Git, GitHub, VS Code</p><br>
 <img align="right" alt="coding" width="400" 
 src ="https://dexterdigital.co.uk/wp-content/uploads/2022/11/animation_500_l70uzcru.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siyadudhe&label=Profile%20views&color=0e75b6&style=flat" alt="siyadudhe" /> </p>
 
 - 📫 How to reach me **siyadudhe.dev@gmail.com**
 
